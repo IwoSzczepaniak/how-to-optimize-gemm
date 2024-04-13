@@ -9,7 +9,7 @@ nflops_per_cycle = 4;
 % multicore or SMP)
 %
 
-nprocessors = 1;
+nprocessors = 16;
 
 %
 % Indicate the clock speed of the processor.  On a Linux machine this info
